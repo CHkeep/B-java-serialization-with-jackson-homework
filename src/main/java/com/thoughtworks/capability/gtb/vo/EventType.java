@@ -1,7 +1,9 @@
 package com.thoughtworks.capability.gtb.vo;
 
+
 public enum EventType {
-  UPLOAD("U"), DOWNLOAD("D");
+  UPLOAD("U"),
+  DOWNLOAD("D");
 
   private String code;
 
